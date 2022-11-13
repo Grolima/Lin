@@ -10,7 +10,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `HASH` Your API Hash from my.telegram.or
 - `ID` Your API ID from my.telegram.org
 
-## Optional Variables
+## Optional Variab
 - `CRYPT` Your GDTot Crypt! If you don't know how to get Crypt then [Learn Here](https://www.youtube.com/watch?v=EfZ29CotRSU)
 - `XSRF_TOKEN` and `Laravel_Session` XSRF_TOKEN and laravel_session cookies! If you don't know how to get then then watch [this Video](https://www.youtube.com/watch?v=EfZ29CotRSU) (for GDTOT) and do the same for sharer.pw
 - `KOLOP_CRYPT` Your KOLOP Crypt
