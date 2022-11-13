@@ -20,8 +20,8 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `UPTOBOX_TOKEN` your UPTOBOX Tok
 --
 
- 
-## Commands to Set for the Bot @Boather
+
+## Commands to Set for the Bot @Boathe
 
 ```
 start - Welcome Message
