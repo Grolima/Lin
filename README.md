@@ -7,7 +7,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 ## Variables
 
 - `TOKEN` Your bot token from @BotFather
-- `HASH` Your API Hash from my.telegram.org
+- `HASH` Your API Hash from my.telegram.or
 - `ID` Your API ID from my.telegram.org
 
 ## Optional Variables
