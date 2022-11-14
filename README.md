@@ -16,12 +16,12 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `KOLOP_CRYPT` Your KOLOP Crypt!
 - `DRIVEFIRE_CRYPT` Your DRIVEFIRE Cryp.!!
 - `HUBDRIVE_CRYPT` Your HUBDRIVE Crypt!
-- `KATDRIVE_CRYPT` Your KATDRIVE Crypt!!
+- `KATDRIVE_CRYPT` Your KATDRIVE Crypt!
 - `UPTOBOX_TOKEN` your UPTOBOX Toke
 --
 
 
-## Commands to Set for the Bot @Boather!!
+## Commands to Set for the Bot @Boather!
 
 ```
 start - Welcome Message
