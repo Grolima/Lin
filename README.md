@@ -17,7 +17,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `DRIVEFIRE_CRYPT` Your DRIVEFIRE Cryp.!!
 - `HUBDRIVE_CRYPT` Your HUBDRIVE Crypt! !
 - `KATDRIVE_CRYPT` Your KATDRIVE Crypt!!
-- `UPTOBOX_TOKEN` your UPTOBOX Tokennn!
+- `UPTOBOX_TOKEN` your UPTOBOX Tokennn!! 
 --
 
 
