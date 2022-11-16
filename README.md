@@ -15,7 +15,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `XSRF_TOKEN` and `Laravel_Session` XSRF_TOKEN and laravel_session cookies! If you don't know how to get then then watch [this Video](https://www.youtube.com/watch?v=EfZ29CotRSU) (for GDTOT) and do the same for sharer.pw
 - `KOLOP_CRYPT` Your KOLOP Crypt
 - `DRIVEFIRE_CRYPT` Your DRIVEFIRE Cryp.!!
-- `HUBDRIVE_CRYPT` Your HUBDRIVE Crypt! !
+- `HUBDRIVE_CRYPT` Your HUBDRIVE Crypt
 - `KATDRIVE_CRYPT` Your KATDRIVE Crypt!!!
 - `UPTOBOX_TOKEN` your UPTOBOX Tokenn!,!
 --
