@@ -27,7 +27,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 start - Welcome Message!!!  !!!!
 dl - Direct Download Linkim! 
 ddllist - List of Sites for /dl
-af - AdFly
+af - AdFly!!
 gp - GPlinks
 dp - DropLink
 lv - LinkVertise
