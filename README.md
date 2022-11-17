@@ -21,7 +21,7 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 --
 
 
-## Commands to Set for the Bot @Boathe!,,!hjkj!
+## Commands to Set for the Bot @Boathe!,,!hjk
 
 ```
 start - Welcome Message!! !
