@@ -28,7 +28,7 @@ start - Welcome Message!!!!
 dl - Direct Download Linkim! 
 ddllist - List of Sites for /dl
 af - AdFly!!!!
-gp - GPlinks
+gp - GPlinks! 
 dp - DropLink
 lv - LinkVertise
 rl - RockLinks
