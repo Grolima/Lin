@@ -17,11 +17,11 @@ a Telegram Bot that can Bypass Ad Links and Generate Direct Links. see the Bot i
 - `DRIVEFIRE_CRYPT` Your DRIVEFIRE Cryp
 - `HUBDRIVE_CRYPT` Your HUBDRIVE Crypt!!
 - `KATDRIVE_CRYPT` Your KATDRIVE Crypt!!
-- `UPTOBOX_TOKEN` your UPTOBOX Tokenn!!!
+- `UPTOBOX_TOKEN` your UPTOBOX Tokenn!!!!
 --
 
 
-## Commands to Set for the Bot @Boathe!,,!h!!
+## Commands to Set for the Bot @Boathe!,,!h!!!!
 
 `
 start - Welcome Message!!!!
