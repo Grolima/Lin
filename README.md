@@ -31,7 +31,7 @@ af - AdFly!!!!
 gp - GPlinks! 
 dp - DropLink
 lv - LinkVertise
-rl - RockLinks
+rl - RockLinks!!
 gd - Google Drive Look-Alike
 gdlist - List of Sites for /gd
 ot - Others
